@@ -1,1 +1,3 @@
-## Hello, my name is Anton. I come from Chechniya and my special ability is to write useless code. My best friend Egor is very very special as well. He likes to play with his own PP. SALAM ALEYKÜM
+## Hello, I'm new to coding.
+
+I can code in JavaScript and Python.
