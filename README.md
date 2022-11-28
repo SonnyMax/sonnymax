@@ -1,4 +1,3 @@
-## Hello, I'm new to coding.
+## Fullstack developer
 
-I can code in HTML, JavaScript and Python.
-I'm currently learning JavaEE and React.js
+Java, JavaScript, C#, C++, Python, HTML
